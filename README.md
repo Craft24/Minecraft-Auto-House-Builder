@@ -4,6 +4,8 @@ AutoHouseBuilder
 
 インストール手順  
 1.RspberryJamMod <https://github.com/arpruss/raspberryjammod/releases>をインストールします  
+(この時、インストーラーの画面で"Raspberry Jam Mod","Sample Python scripts and mcpi framework",
+ そしてPython3系列の"Python interpreter"にチェックを入れ同時にインストールしてください）
 2.一度マインクラフトを起動します  
 3.Minecraftディレクトリにmcpipyフォルダが生成されているはずですのでそこにダウンロードしたHouse.pyファイルなどを配置します  
 
